@@ -1,0 +1,5 @@
+#!/bin/bash
+PARCEL_NAME="hadoop_lzo-0.4.15"
+export HADOOP_CLASSPATH=$PARCELS_ROOT/$PARCEL/java/hadoop-lzo-0.4.14.jar
+export HBASE_CLASSPATH=$HADOOP_CLASSPATH
+export JAVA_LIBRARY_PATH=$PARCELS_ROOT/$PARCEL/native

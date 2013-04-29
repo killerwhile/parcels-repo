@@ -1,0 +1,34 @@
+{
+  "name":               "hadoop_lzo",
+  "version":            "0.4.15",
+  "extraVersionInfo": {
+    "fullVersion":        "0.4.15-precise",
+    "baseVersion":        "0.4.15",
+    "patchCount":         "p0"
+  },
+  "minPrevVersion":     "",
+  "maxPrevVersion":     "",
+
+  "setActiveSymlink":   true,
+
+  "scripts": {
+    "defines": "lzo_env.sh"
+  },
+
+  "packages": [
+    { "name":    "hadoop-lzo",
+      "version": "0.14.5"
+    }
+  ],
+
+  "components": [
+    { "name":     "hadoop-lzo",
+      "version":  "0.14.5",
+      "pkg_version":  "0.14.5"
+    }
+  ],
+
+  "users": {},
+
+  "groups": []
+}

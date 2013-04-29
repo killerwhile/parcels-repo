@@ -1,0 +1,15 @@
+{
+  "lastUpdated": 13672469950000,
+  "parcels": [
+    {
+      "parcelName": "elephantbird-3.0.9-precise.parcel",
+      "hash": "12cbe127fd660a490b82eefde92b0f04d86b1e98",
+      "components": []
+    },
+    {
+      "parcelName": "hadoop_lzo-0.4.15-precise.parcel",
+      "hash": "5362d28511f919e812d9377e60aa5588c24347f7",
+      "components": []
+    }
+  ]
+}

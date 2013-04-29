@@ -1,0 +1,34 @@
+{
+  "name":               "elephantbird",
+  "version":            "3.0.9",
+  "extraVersionInfo": {
+    "fullVersion":        "3.0.9-precise",
+    "baseVersion":        "3.0.9",
+    "patchCount":         "p1"
+  },
+  "minPrevVersion":     "",
+  "maxPrevVersion":     "",
+
+  "setActiveSymlink":   true,
+
+  "scripts": {
+    "defines": "elephantbird.sh"
+  },
+
+  "packages": [
+    { "name":    "elephant-bird",
+      "version": "3.0.9"
+    }
+  ],
+
+  "components": [
+    { "name":     "elephant-bird",
+      "version":  "3.0.9",
+      "pkg_version":  "3.0.9"
+    }
+  ],
+
+  "users": {},
+
+  "groups": []
+}
