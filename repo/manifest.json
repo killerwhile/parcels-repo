@@ -1,9 +1,19 @@
 {
-  "lastUpdated": 13672469950000,
+  "lastUpdated": 13673911330000,
   "parcels": [
+    {
+      "parcelName": "elephantbird-3.0.9-el6.parcel",
+      "hash": "103d194a738202526aa5ba4354717b3341c68594",
+      "components": []
+    },
     {
       "parcelName": "elephantbird-3.0.9-precise.parcel",
       "hash": "12cbe127fd660a490b82eefde92b0f04d86b1e98",
+      "components": []
+    },
+    {
+      "parcelName": "hadoop_lzo-0.4.15-el6.parcel",
+      "hash": "e2556fea20baf1068e32d755d9196eab04523325",
       "components": []
     },
     {
